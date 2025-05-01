@@ -12,7 +12,6 @@ public class StackTest {
         System.out.println("Розмір стеку: " + stack.size());  // 3
         System.out.println("Верхній елемент: " + stack.peek());  // 3
 
-        // Видаляємо елементи
         System.out.println("Видалений елемент: " + stack.pop());  // 3
         System.out.println("Видалений елемент: " + stack.pop());  // 2
 
